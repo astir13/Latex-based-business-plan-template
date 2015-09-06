@@ -26,6 +26,7 @@ wget <link>
 tar xvf <link>
 
 3. use build.sh to build it.
+mkdir images/eps
 ./build.sh
 
 4. plan.pdf should be generated, here is my copy <link>.
